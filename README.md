@@ -9,8 +9,3 @@ A quick reference website featuring detailed cheatsheets on programming language
 - Cybersecurity best practices and common vulnerabilities
 - Databases, Linux commands, and much more!
 
-## Installation:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cheatsheet-website.git
-
